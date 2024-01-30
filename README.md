@@ -1,4 +1,4 @@
-# Stop Watch System README
+# Stop Watch System
 ## Overview
 This project implements a Stop Watch system using the ATmega32 Microcontroller with a 1MHz frequency. It utilizes Timer1 in CTC mode for precise time counting and features a display system using six Common Anode 7-segments through multiplexing with a 7447 decoder and NPN BJT transistors.
 
